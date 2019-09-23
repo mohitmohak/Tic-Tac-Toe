@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 A c++ implementation of Tic-Tac-Toe game.  
 Code for the game Tic-Tac-Toe can be found here.  
-**Link to Github Repository:** `https://github.com/mohitmohak/Tic-Tac-Toe`
+**Link to Github Repository: https://github.com/mohitmohak/Tic-Tac-Toe**
 ## Getting Started
 ### Prerequisites
 Download the **tictactoe.cpp** file.  
